@@ -48,4 +48,3 @@
     }
     platform.init = init;
 })(window);
-//testing comment
